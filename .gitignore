@@ -1,0 +1,20 @@
+# Auxiliary files
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.out
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.fls
+*.fdb_latexmk
+
+# LaTeXmk temp files
+*.nav
+*.snm
+*.vrb
+
+# macOS junk
+.DS_Store
